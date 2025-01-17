@@ -1,5 +1,5 @@
 
-##### FCA Fixed 
+##### Facebook Chat Api Fixed
 
 <img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot V2- Chatbot Messenger</h1>
@@ -7,9 +7,8 @@
 
 ## Introduction
 
-#### Join us in [Messenger Group](https://m.me/j/AbZgnKNUSOuhSGWl/)🍪
 
-fix By [XNIL6X](https://www.facebook.com/xnil6x404?mibextid=ZbWKwL)
+Bot modified by [TASBIUL ISLAM RASIN](https://www.facebook.com/id.link.niye.muri.khaw)
 ###### If you encounter any issues or difficulties, don't hesitate to reach out and ask for assistance here. Our team is here to help you with any problems you may face.
 
 - If you encounter any issues or have questions related to this project, please don't hesitate to reach out to us on messenger. we're here to assist you!
